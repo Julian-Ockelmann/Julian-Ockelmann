@@ -12,11 +12,11 @@ I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim
 - ⌨ Always happy to collaborate
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=ff6e96)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ff6e96)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=ff6e96)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=ff6e96)
+![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=ff6e96)
 
 ---
 > Project List in Progress
@@ -26,8 +26,7 @@ I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim
 
 <a href="https://github.com/Julian-Ockelmann">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true&card_width=230" height="180px"/>
-  </a>
-<a href="https://github.com/Julian-Ockelmann">
+  </a> <a href="https://github.com/Julian-Ockelmann">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&card_width=230"  alt="Julian's github stats" height="180px" />
 </a>
 
