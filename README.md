@@ -25,10 +25,10 @@ I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
 <a href="https://github.com/Julian-Ockelmann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=200" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true&card_width=250" height="215px"/>
   </a>
 <a href="https://github.com/Julian-Ockelmann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Julian's github stats" height="220px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&card_width=250"  alt="Julian's github stats" height="215px" />
 </a>
 
 ------
