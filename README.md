@@ -26,8 +26,9 @@ I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim
 
 <a href="https://github.com/Julian-Ockelmann">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true&card_width=150" height="180px"/>
-  </a> <a href="https://github.com/Julian-Ockelmann">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&card_width=200"  alt="Julian's github stats" height="180px" />
+  </a> 
+  <a href="https://github.com/Julian-Ockelmann">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&card_width=200&layout=compact"  alt="Julian's github stats" height="180px" />
 </a>
 
 
