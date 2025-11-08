@@ -7,14 +7,13 @@
   height="190"
 />
 
-I’m a PhD student in Cognitive Neuroscience at the University of Zurich.  
-I aim to provide open-access tools for behavioural and neuroscientific research.  
-My code looks laughable, but it usually works.
+- I’m a PhD student in Cognitive Neuroscience at the University of Zurich.  
+- I do research on neural signatures of how cognition and sensory processing interact with one another.  
 
 - 📚 M.Sc. Psychology  
 - 🧠 Cognitive Neuroscience  
 - ⭐ Art, Photography, Literature  
-- ⌨ Always happy to collaborate  
+- ⌨ Always down for shenanigans 
 
 <br clear="both" />
 
