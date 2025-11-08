@@ -32,21 +32,25 @@ My code looks laughable, but it usually works.
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-<p align="center">
-  <a href="https://github.com/Julian-Ockelmann">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true"
-      alt="Most used languages"
-      width="380"
-      height="190"
-    />
-  </a>
-  <a href="https://github.com/Julian-Ockelmann">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&layout=compact"
-      alt="Julian's GitHub stats"
-      width="380"
-      height="190"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Julian-Ockelmann">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true&card_width=250"
+          alt="Most used languages"
+          height="190"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Julian-Ockelmann">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&card_width=250&layout=compact"
+          alt="Julian's GitHub stats"
+          height="190"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
