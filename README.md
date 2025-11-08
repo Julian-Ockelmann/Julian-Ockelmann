@@ -1,19 +1,30 @@
-<p align="center">
-  <img
-    src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a"
-    alt="Brain illustration"
-    height="200"
-  />
-</p>
-
 <h1>Heya, I'm Julian</h1>
 
-I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim to provide open-access tools for behavioural and neuroscientific research. My code looks laughable, but it usually works.
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <p>
+        I’m a PhD student in Cognitive Neuroscience at the University of Zurich.
+        I aim to provide open-access tools for behavioural and neuroscientific research.
+        My code looks laughable, but it usually works.
+      </p>
 
-- 📚 M.Sc. Psychology  
-- 🧠 Cognitive Neuroscience  
-- ⭐ Art, Photography, Literature  
-- ⌨ Always happy to collaborate  
+      <ul>
+        <li>📚 M.Sc. Psychology</li>
+        <li>🧠 Cognitive Neuroscience</li>
+        <li>⭐ Art, Photography, Literature</li>
+        <li>⌨ Always happy to collaborate</li>
+      </ul>
+    </td>
+    <td valign="top" width="30%" align="center">
+      <img
+        src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a"
+        alt="Brain illustration"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
