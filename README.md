@@ -45,8 +45,8 @@ My code looks laughable, but it usually works.
     <img
       src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&layout=compact&hide_border=true&card_width=320"
       alt="Julian's GitHub stats"
-      height="190"
-      width="250"
+      height="250"
+      width="450"
     />
   </a>
 </p>
