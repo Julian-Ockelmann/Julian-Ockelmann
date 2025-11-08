@@ -32,12 +32,13 @@ My code looks laughable, but it usually works.
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Julian-Ockelmann">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true&hide_border=true&card_width=320"
       alt="Most used languages"
       height="190"
+      width="250
     />
   </a>
   <a href="https://github.com/Julian-Ockelmann">
@@ -45,6 +46,7 @@ My code looks laughable, but it usually works.
       src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&layout=compact&hide_border=true&card_width=320"
       alt="Julian's GitHub stats"
       height="190"
+      width="250"
     />
   </a>
 </p>
