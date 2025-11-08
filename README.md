@@ -1,10 +1,22 @@
-<!-- BEGIN README -->
-
 <h1>Heya, I'm Julian</h1>
 
-| | |
-| --- | --- |
-| I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim to provide open-access tools for behavioural and neuroscientific research. My code looks laughable, but it usually works.<br><br>📚 M.Sc. Psychology<br>🧠 Cognitive Neuroscience<br>⭐ Art, Photography, Literature<br>⌨ Always happy to collaborate | <img src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a" alt="Brain illustration" height="200" /> |
+<img
+  align="right"
+  src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a"
+  alt="Brain illustration"
+  height="190"
+/>
+
+I’m a PhD student in Cognitive Neuroscience at the University of Zurich.  
+I aim to provide open-access tools for behavioural and neuroscientific research.  
+My code looks laughable, but it usually works.
+
+- 📚 M.Sc. Psychology  
+- 🧠 Cognitive Neuroscience  
+- ⭐ Art, Photography, Literature  
+- ⌨ Always happy to collaborate  
+
+<br clear="both" />
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
@@ -26,5 +38,3 @@
 <a href="https://github.com/Julian-Ockelmann">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&card_width=200&layout=compact" alt="Julian's github stats" height="230px" />
 </a>
-
-<!-- END README -->
