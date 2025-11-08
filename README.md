@@ -43,7 +43,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&layout=compact&hide_border=true&card_width=340"
       alt="Julian's GitHub stats"
-      height="220"
+      height="260"
     />
   </a>
 </div>
