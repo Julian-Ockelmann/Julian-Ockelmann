@@ -1,5 +1,5 @@
 <img align="left"  height="300" src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a"/>
-<h1>Heya, I'm Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Heya, I'm Julian</h1>
 
 
 
