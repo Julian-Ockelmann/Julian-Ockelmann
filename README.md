@@ -1,4 +1,4 @@
-<img align="left"  height="300" src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a"/>
+<img align="left"  height="200" src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a"/>
 <h1>Heya, I'm Julian</h1>
 
 
