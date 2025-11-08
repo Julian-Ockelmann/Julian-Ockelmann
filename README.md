@@ -1,24 +1,19 @@
-<div style="display: flex; align-items: flex-start; gap: 16px;">
+<p align="center">
   <img
     src="https://github.com/Julian-Ockelmann/Julian-Ockelmann/assets/66472855/6a84bd2d-996f-4962-b115-fb60024a138a"
     alt="Brain illustration"
     height="200"
   />
-  <div>
-    <h1>Heya, I'm Julian</h1>
+</p>
 
-    <p>
-      I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim to provide open-access tools for behavioural and neuroscientific research. My code looks laughable, but it usually works.
-    </p>
+<h1>Heya, I'm Julian</h1>
 
-    <ul>
-      <li>📚 M.Sc. Psychology</li>
-      <li>🧠 Cognitive Neuroscience</li>
-      <li>⭐ Art, Photography, Literature</li>
-      <li>⌨ Always happy to collaborate</li>
-    </ul>
-  </div>
-</div>
+I’m a PhD student in Cognitive Neuroscience at the University of Zurich. I aim to provide open-access tools for behavioural and neuroscientific research. My code looks laughable, but it usually works.
+
+- 📚 M.Sc. Psychology  
+- 🧠 Cognitive Neuroscience  
+- ⭐ Art, Photography, Literature  
+- ⌨ Always happy to collaborate  
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
@@ -35,8 +30,8 @@
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
 <a href="https://github.com/Julian-Ockelmann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true&card_width=250" height="230px"/>
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Ockelmann&show_icons=true&theme=dracula&langs_count=8&count_private=true&card_width=250" height="230px" />
+</a>
 <a href="https://github.com/Julian-Ockelmann">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Julian-Ockelmann&count_private=true&hide=stars&show_icons=true&theme=dracula&line_height=27&card_width=200&layout=compact" alt="Julian's github stats" height="230px" />
 </a>
